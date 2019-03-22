@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+data/
+Story-Plot-Generator.ipynb
+Plot-generator.ipynb
